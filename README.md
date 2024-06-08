@@ -127,4 +127,3 @@
 
 ###
 
-gpt profile
